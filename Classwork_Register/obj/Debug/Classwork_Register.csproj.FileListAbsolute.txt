@@ -1,0 +1,30 @@
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\bin\Debug\Classwork_Register.exe.config
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\bin\Debug\Classwork_Register.exe
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\bin\Debug\Classwork_Register.pdb
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.csprojAssemblyReference.cache
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\MainWindow.g.cs
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\App.g.cs
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register_MarkupCompile.cache
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register_MarkupCompile.lref
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\MainWindow.baml
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.g.resources
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.Properties.Resources.resources
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.csproj.GenerateResource.cache
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.exe
+F:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)\Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.pdb
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\bin\Debug\Classwork_Register.exe.config
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\bin\Debug\Classwork_Register.exe
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\bin\Debug\Classwork_Register.pdb
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\MainWindow.g.cs
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\App.g.cs
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register_MarkupCompile.cache
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register_MarkupCompile.lref
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\MainWindow.baml
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.g.resources
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.exe
+f:\YURKO\SHAG\Project C#\28_07112021_Lab_System Prog(Register)_Network Prog (OSI, Socket)\My_Classwork_Register\Classwork_Register\obj\Debug\Classwork_Register.pdb
